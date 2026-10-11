@@ -181,14 +181,6 @@ interface CanvasPath {
 
 ---
 
-## Disclaimer on Agentic Engineering
-
-Version 8 was built with the help of AI coding assistants. I made the plans, decisions, and reviews, then manually tested as much as I could. Most of the implementation was done by Claude Code (Opus 4.7) and Codex (GPT-5.5), so I want to be upfront that the bulk of the code was authored by the models rather than typed by hand.
-
-If you are curious about the workflow, Simon Willison has a great write-up on the patterns I followed: [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/).
-
----
-
 [based-on]: https://pspdfkit.com/blog/2017/how-to-build-free-hand-drawing-using-react/
 [smooth-curve-tutorial]: https://medium.com/@francoisromain/smooth-a-svg-path-with-cubic-bezier-curves-e37b49d46c74
 [css-bg]: https://developer.mozilla.org/en-US/docs/Web/CSS/background
